@@ -1,2 +1,2 @@
-# Unblxck
+# EIC
 This project is just to end internet censorship
